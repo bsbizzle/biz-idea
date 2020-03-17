@@ -5,7 +5,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Toiletpapier_%28Gobran111%29.jpg/1200px-Toiletpapier_%28Gobran111%29.jpg">
 <h1>
 <p>
-it absorbs! get some!
+Toilet paper! We need it! Now!
 </p>
 </h1>
 </nav>
