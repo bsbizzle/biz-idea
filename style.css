@@ -1,0 +1,15 @@
+header {
+    color: cornflowerblue;
+    background-color: grey
+}
+
+main {
+    color: rgb(160, 57, 57);
+    background-color: rgb(60, 55, 40);
+}
+
+footer {
+    color: #ee3e80;
+    background-color: #96727b;
+    background-color: hsl(50%, 50%, 50%);
+}
