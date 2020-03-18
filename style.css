@@ -1,11 +1,11 @@
 header {
-    color: cornflowerblue;
-    background-color: grey
+    color: red;
+    background-color: beige;
 }
 
 main {
     color: rgb(160, 57, 57);
-    background-color: rgb(60, 55, 40);
+    background-color: rgb(5, 80, 60);
 }
 
 footer {
