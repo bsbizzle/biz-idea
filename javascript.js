@@ -1,11 +1,10 @@
-prompt("Do you wipe?");
-
 var answer = prompt("Do you wipe?");
+console.log(answer);
 if (answer === 'yes') {
-    alert('you're a genius');
+    alert('you are a genius');
 }
 else if (answer === 'no') {
-    alert('please stay away from all people);
+    alert('please stay away from all people');
 }
 else if (answer === 'maybe') {
     alert('sort out your priorities');
@@ -13,15 +12,15 @@ else if (answer === 'maybe') {
 else {
     alert('time to ponder the meaning of life');
 }
-var answer = prompt("Are you a toilet paper hoarder?");
-if (answer === 'yes') {
-    alert('okay, you're not the only human that exists');
+var hoarder = prompt("Are you a toilet paper hoarder?");
+if (hoarder === 'yes') {
+    alert('okay, youre not the only human that exists');
 }
-else if (answer === 'no') {
+else if (hoarder === 'no') {
     alert('keep fighting the good fight');
 }
-else if (answer === 'maybe') {
-    alert('your guilt speaks volumes);
+else if (hoarder === 'maybe') {
+    alert('your guilt speaks volumes');
 }
 else {
     alert('oh so you ARE');
