@@ -25,6 +25,18 @@ else if (hoarder === 'maybe') {
 else {
     alert('oh so you ARE');
 }
+function quantity(){
+    var answer = prompt("How many rolls of toilet paper do you think you need?");
+    var album = '';
+    var pic = '<img src="https://www.staples-3p.com/s7/is/image/Staples/sp41688553_sc7?wid=512&hei=512">';
+    while (answer === '' || isNaN(answer)){
+        answer = prompt('Please answer')
+    }
+    for (i = 0; i < answer; i++) {
+        album = album + pic;        
+    }
+    document.getElementById("again").innerHTML = album;
+}
 function myFunction() {
     var txt;
     var r = confirm("You don't hoard toilet paper");
